@@ -1,1 +1,6 @@
-# Pruebas_iniciales
+# Pruebas\_iniciales
+
+
+
+Descripción: Quiero entender como funciona Git y GitHub.
+
